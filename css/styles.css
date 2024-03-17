@@ -537,14 +537,10 @@ img {
 
 /* footer blocks */
 
-.container-footer {
+.link-wrapper {
     margin-right: 120px;
 }
 
-.social-media-container {
-    width: 208px;
-    position: absolute;
-}
 
 
 /* the whole footer */
